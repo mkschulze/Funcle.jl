@@ -1,6 +1,6 @@
 name = "Funcle"
 uuid = "0dbfcf55-b0d8-4621-a728-ba02b47d3e49"
-authors = ["Mark Schulze", "LL.M."]
+authors = ["Mark Schulze"]
 version = "0.1.0"
 
 [deps]
@@ -18,9 +18,7 @@ GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 Indicators = "70c4c096-89a6-5ec6-8236-da8aa3bd86fd"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-MarketTechnicals = "4f8c86c6-9e40-5506-9807-98571cb48bc8"
 Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
-Rates = "84e8744e-4c48-11e9-33f6-2d4803e638bd"
 RollingFunctions = "b0e4dd01-7b14-53d8-9b45-175a3e362653"
 ShiftedArrays = "1277b4bf-5013-50f5-be3d-901d8477a67a"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
@@ -31,7 +29,7 @@ VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 
 [compat]
-julia = "1.6"
+julia = "1.8"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

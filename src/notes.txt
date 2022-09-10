@@ -2,3 +2,5 @@ Sources
 https://github.com/mkschulze/Credit-Rating-Markov-Chain
 https://github.com/PaulSoderlind/JuliaTutorial
 https://github.com/svaksha/Julia.jl/blob/master/FileIO.md
+https://github.com/piever/TableWidgets.jl
+https://www.softcover.io/read/7b8eb7d0/juliabook/introduction
